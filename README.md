@@ -1,7 +1,7 @@
-# GSM-based pH Monitoring System
+# Smart Aquarium System
 
 ## Overview
-This project is a **pH monitoring system** that uses a **GSM module (SIM900D) and a pH sensor** to measure water quality. If the pH value deviates from the safe range (6.8 - 7.2), the system will send an **SMS alert** to the owner, enabling timely action to protect fish and maintain optimal water conditions.
+This project is a **Smart Aquarium System** that uses a **GSM module (SIM900D) and a pH sensor** to monitor water quality. If the pH value deviates from the safe range (6.8 - 7.2), the system will send an **SMS alert** to the owner, enabling timely action to protect fish and maintain optimal water conditions.
 
 ## How It Works
 1. **pH Sensor** measures the water condition.
@@ -40,9 +40,8 @@ This project is a **pH monitoring system** that uses a **GSM module (SIM900D) an
 - Weight: **25g**
 - Service Life: **3 years**
 
-## Future Enhancements
-- Add data logging for pH values.
-- Use an IoT platform for remote monitoring.
-- Implement automatic pH correction mechanisms.
+
+
+
 
 
